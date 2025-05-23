@@ -205,7 +205,7 @@
 		"@tiptap/core": "2.11.5",
 		"@tiptap/extension-character-count": "^2.11.5",
 		"@tiptap/extension-image": "2.11.5",
-		"@tiptap/extension-link": "2.11.5",
+		"@tiptap/extension-link": "2.11.9",
 		"@tiptap/extension-placeholder": "2.11.5",
 		"@tiptap/extension-subscript": "2.11.5",
 		"@tiptap/extension-superscript": "2.11.5",
